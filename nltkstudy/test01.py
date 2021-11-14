@@ -1,0 +1,2 @@
+import nltkstudy
+nltkstudy.download()
